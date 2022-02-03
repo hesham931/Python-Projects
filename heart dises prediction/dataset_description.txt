@@ -1,0 +1,45 @@
+
+
+      This dataset contains 13 attributes.
+
+      Attribute Information:
+      ------------------------
+      -- 1. age : Patients Age in years. 
+    
+      -- 2. sex : Gender of patient (Male - M, Female - F).  
+    
+      -- 3. chest pain type  Type of chest pain experienced by patient categorized into:
+		•  typical.
+		• typical angina.
+		• non-anginal pain.
+		• asymptomatic.	
+	
+      -- 4. resting blood pressure: Level of blood pressure at resting  mode in mm/HG.  
+
+      -- 5. Cholestoral : Serum cholesterol in mg/dl.
+
+      -- 6. fasting blood sugar : lood sugar levels on fasting > 120 mg/dl represents as 1 in case of true and 0 as false.
+       
+      -- 7. resting ecg: Result of electrocardiogram while at rest are represented in 3 distinct values:
+		•	 Normal.
+		•	 Abnormality in T-T wave.
+		•	 Left ventricular hypertrophy.
+
+      -- 8. max heart rate : Maximum heart rate achieved.
+
+      -- 9. exercise angina: Angina induced by exercise 0 depicting NO 1 depicting Yes.
+
+      -- 10. oldpeak : Exercise induced ST-depression in comparison with the state of rest.
+  
+      -- 11. ST slope : ST segment measured in terms of slope during peak exercise.
+		•	Normal.
+		•	Upsloping.
+		•	Flat.
+		•	Downsloping.
+
+
+      -- 12. heart_disease_present : It is the target variable which we	have to predict 1 means patient is suffering from heart risk
+               and 0 means patient is normal. 
+
+
+   
